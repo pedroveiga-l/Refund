@@ -57,6 +57,6 @@ Boas práticas de estruturação de código
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/refund.git
+git clone [https://github.com/seu-usuario/refund.git](https://github.com/pedroveiga-l/Refund.git)
 
 Abra o arquivo index.html no navegador.
